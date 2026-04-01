@@ -1,8 +1,10 @@
 # 🧑‍💻 Vitor Ferreira
 **Estagiário em Desenvolvimento Web**
 
-Eu me chamo Vitor Hugo Botelho Ferreira, tenho 20 anos.  
-Concluí o ensino médio no Colégio Estadual Olavo Bilac e iniciei minha jornada na tecnologia com um curso de desenvolvimento back-end pela DNC.  
+Sou um desenvolvedor júnior apaixonado por tecnologia e aprendizado contínuo.  
+Estou sempre buscando evoluir minhas habilidades, aprender novas ferramentas e encarar desafios que me façam crescer na área.
+
+Acredito que consistência e prática são o caminho para me tornar um profissional cada vez melhor. 
 
 Atualmente, estou cursando Ciência da Computação na UNISOCIESC.
 
