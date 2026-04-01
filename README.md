@@ -23,6 +23,6 @@ Atualmente, estou cursando Ciência da Computação na UNISOCIESC.
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vuheff&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vuheff&layout=compact&theme=tokyonight)
